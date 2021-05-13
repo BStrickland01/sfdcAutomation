@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="sfdcTestScriptsRepository"
+id="2e61e790-b4a4-40d2-80d0-4f3854b1ae3a">
+  <codegen
+  classname="sfdcTestScriptsRepository"
+  namespace="sfdcTestScripts"/>
+  <rootfolder
+  name="Root"
+  id="240c583a-9a1d-4ab6-8bf8-b2ef22bf5977"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="67c89eb7-7c95-47c8-b692-f6636d21b28a"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="sfdcTestScripts">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="2e61e790-b4a4-40d2-80d0-4f3854b1ae3a"
+	name="sfdcTestScriptsRepository"
+	relativepath="sfdcTestScriptsRepository.rxrep">
+		<codegen
+		classname="sfdcTestScriptsRepository"
+		namespace="sfdcTestScripts">
+		</codegen>
+		<rootfolder
+		id="240c583a-9a1d-4ab6-8bf8-b2ef22bf5977"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
